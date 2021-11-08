@@ -1,24 +1,10 @@
 # quick-develop-2
 
-## Project setup
-```
-npm install
-```
+本项目是极客论坛的二期开发，与极客论坛不同的是本项目不再只是一个简简单单的论坛，而是一个面向全国大学生的吧，类似于百度贴吧，但面对用户仅为在校大学生，旨在加强中国大学生的交流等方面！
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 极客论坛
+See [极客论坛](http://www.codeman.ink:8848/home).
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 开发人
+前端：凉风有信、
+后端（JAVA）：猫颜

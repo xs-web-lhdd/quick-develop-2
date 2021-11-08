@@ -1,0 +1,47 @@
+html {
+  font-size: 100px;
+}
+
+// 1rem = html font-size
+
+body {
+  font-size: .12rem;
+}
+
+.main__content {
+  * {
+    word-break: break-all;
+  }
+
+  img  {
+    max-width: 100%;
+    display: block;
+    margin: 20px 0;
+  }
+
+  a{
+    text-decoration-line: none;
+    color: #000;
+  }
+
+  pre {
+    max-width: 687px;
+    overflow: auto;
+    background-color: #282c34;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+  }
+
+  p {
+    code {
+      max-width: 687px;
+      overflow: auto;
+      background-color: #282c34;
+      color: white;
+      padding: 20px;
+      border-radius: 5px;
+      display: block;
+    }
+  }
+}
